@@ -48,7 +48,7 @@ This app is an Express.js project with a basic setup that exposes several APIs. 
 These endpoints return information about all the countries in the world and the players in each country.
 This data is fetched through a public API [sportsmonks](https://docs.sportmonks.com/cricket)
 
-**client**
+**client**\
 This app was built in NextJs 14. It has two main parts
 
 1. Frontend Part
